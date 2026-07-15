@@ -1,0 +1,18 @@
+# .NET build çıktıları
+bin/
+obj/
+publish/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Publish edilmiş tek exe (isterseniz Releases'e yükleyin, repoya koymayın)
+*.exe
+
+# İşletim sistemi
+Thumbs.db
+desktop.ini
+.DS_Store
