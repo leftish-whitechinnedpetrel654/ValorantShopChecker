@@ -1,7 +1,7 @@
 # Valorant Shop Checker
 
-Valorant günlük mağazanızı **oyuna girmeden**, tek pencerede gösteren küçük bir Windows uygulaması.
-Günlük 4 skin, fiyatları, cüzdan bakiyeniz (VP / Radianite) ve mağazanın yenilenmesine kalan süre.
+**Valorant hesabınıza şifre girmeden, mağazadaki silah skinlerini çeker.**
+Oyuna girmeden; günlük 4 skin, fiyatları, cüzdan bakiyeniz (VP / Radianite) ve mağazanın yenilenmesine kalan süreyi tek pencerede gösterir.
 
 > **Şifre istemez.** Uygulama, bilgisayarınızda **zaten açık olan** Riot İstemcisi'nden
 > yerel olarak (`127.0.0.1`) kimlik bilgisi okur. Riot kullanıcı adı/şifreniz hiçbir yere gönderilmez.
